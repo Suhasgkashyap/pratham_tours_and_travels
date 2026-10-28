@@ -1,0 +1,6 @@
+{
+  "name": "Pratham Tours and Travels",
+  "description": "Premium tours, holiday packages, car rentals, and custom travel bookings based in Ranebennur, Karnataka. Featuring Swift Dzire, Suzuki Ertiga, honeymoon, adventure, and family holiday packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
